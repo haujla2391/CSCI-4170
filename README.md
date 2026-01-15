@@ -1,3 +1,3 @@
 # CSCI-4170
 
-## HWs for Projects in AU/ML
+### HWs for Projects in AI/ML
